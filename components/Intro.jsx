@@ -19,8 +19,6 @@ const Intro = () => {
                 <Image 
                     src="/img/Avocado.png" 
                     alt="intro" 
-                    width="100%" 
-                    height="100%" 
                     layout="fill" 
                     objectFit="cover"
                 />
